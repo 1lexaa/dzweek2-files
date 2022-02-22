@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/dzweek2-files/bin/Debug/net6.0/dzweek2-files
+/Users/1lexaa/Documents/учеба/dzweek2-files/bin/Debug/net6.0/dzweek2-files.deps.json
+/Users/1lexaa/Documents/учеба/dzweek2-files/bin/Debug/net6.0/dzweek2-files.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/dzweek2-files/bin/Debug/net6.0/dzweek2-files.dll
+/Users/1lexaa/Documents/учеба/dzweek2-files/bin/Debug/net6.0/ref/dzweek2-files.dll
+/Users/1lexaa/Documents/учеба/dzweek2-files/bin/Debug/net6.0/dzweek2-files.pdb
+/Users/1lexaa/Documents/учеба/dzweek2-files/obj/Debug/net6.0/dzweek2-files.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/dzweek2-files/obj/Debug/net6.0/dzweek2-files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/dzweek2-files/obj/Debug/net6.0/dzweek2-files.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/dzweek2-files/obj/Debug/net6.0/dzweek2-files.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/dzweek2-files/obj/Debug/net6.0/dzweek2-files.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/dzweek2-files/obj/Debug/net6.0/dzweek2-files.dll
+/Users/1lexaa/Documents/учеба/dzweek2-files/obj/Debug/net6.0/ref/dzweek2-files.dll
+/Users/1lexaa/Documents/учеба/dzweek2-files/obj/Debug/net6.0/dzweek2-files.pdb
+/Users/1lexaa/Documents/учеба/dzweek2-files/obj/Debug/net6.0/dzweek2-files.genruntimeconfig.cache
